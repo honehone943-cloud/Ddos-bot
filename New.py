@@ -22,7 +22,7 @@ TOKEN = '7389579208:AAFclzuZBeb_rtz992WE51LpZygg6iZ8bU0'
 bot = telebot.TeleBot(TOKEN)
 
 CHANNEL_INVITE = "https://t.me/DDoS1115"
-owners = [7993202287]
+owners = [7993202287,7186543886]
 KEY_FILE = 'keys.json'
 DATA = {}
 ALL_USERS = set()  # Track ALL bot users for broadcast
